@@ -1,0 +1,27 @@
+.container{
+    text-align: center;
+    margin-top:10px;
+}
+
+.wrap{
+    display: inline-block;
+}
+
+table{
+    margin:auto; 
+}
+
+input{
+        border-radius: 100px;     
+    border: 2px solid slategrey;
+    font-size: x-large;
+}
+
+button{
+    border-radius: 100px;
+    font-size: x-large;
+    background: black;
+    color: white;
+    width: 72px;
+    height: 64px;
+}
